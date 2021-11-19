@@ -22,7 +22,7 @@
 
 **备注：国庆期间电脑出现故障返修，丢失部分开发文件，备份仅找到7月10日至8月25日的开发记录和文件及9月开发文件，这一部分的开发记录及文件存放于代码开源仓库2;如图所示为备份的部分代码**
 
-<img src="/picture/backup.png" alt="backup" style="zoom:100%;float:left" />
+<img src="/picture/backup.png" alt="backup" style="zoom:50%;float:left" />
 
 
 
